@@ -1,0 +1,25 @@
+/*html body{
+background-color: rgb(127, 146, 255);
+text-align: center;
+}*/
+
+html, body {
+    height: 100%;
+    background-color: rgb(127, 146, 255) !important;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  .login_div
+  {
+      background: rgba(255,255,255,0.8);float: none;border-radius: 8px;
+      padding-top: 72px;
+      padding-left: 64px;
+      padding-right: 64px;
+      padding-bottom: 72px;
+  }
